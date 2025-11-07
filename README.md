@@ -1,8 +1,8 @@
-# TMF708_TestExecution
-TM Forum Open APIs (Apache 2.0) Test Execution API
+# TMF708 TestExecution
 
-Provides a standardized mechanism for test case, test suite, and non-functional test model execution. This also includes allocation and provisioning of test environments for test execution.
+TM Forum Open API (Apache 2.0) TestExecution API.
 
-To access this API; (the User Guide, Postman Collection, Swagger file, Reference Implementation, Conformance Profile, and CTK) go to the Open API table at:
+TM Forum Open API for TestExecution.
 
-https://projects.tmforum.org/wiki/display/API/Open+API+Table
+The resources in this repository are a mirror of the official versions, published here for your convenience.
+The authoritative source of information for this API is: https://www.tmforum.org/oda/open-apis/directory/
